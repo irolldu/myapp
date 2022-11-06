@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+.card.is-valid {
+	border-color: #28a745;
+}
+
+.card.is-invalid {
+	border-color: #dc3545;
+}
+
+.note-editor.note-frame.card.is-valid {
+	border-color: #28a745;
+}
+
+.note-editor.note-frame.card.is-invalid {
+	border-color: #dc3545;
+}
